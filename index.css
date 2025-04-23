@@ -69,6 +69,7 @@ p, h1, a {
 }
 
 .card_subtitle {
+  margin-top: 4px;
   color: var(--color-green);
   font-size: 14px;
   font-weight: 700;
