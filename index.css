@@ -37,6 +37,7 @@ p, h1, a {
   flex-grow: 1;
   width: 100%;
   text-align: center;
+  margin-top: 32px
 }
 
 .card {
